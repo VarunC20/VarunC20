@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VarunC20
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Robot control and Python
-- 💞️ I’m looking to collaborate on Robotic arm projects
+- 🌱 I’m currently working on Computer vision and AI projects
+- 💞️ I’m looking to collaborate on Robotic projects
 - 📫 Write a mail to varunchavan20@gmail.com
 
 <!---
